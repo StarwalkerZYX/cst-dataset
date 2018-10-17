@@ -1,0 +1,1 @@
+conda install matplotlib tqdm pandas
